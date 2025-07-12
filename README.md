@@ -24,7 +24,7 @@ The bot continuously trades TF2 cases between two Steam accounts to increase the
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AkkayaKaan/steam-trade-farm-bot.git
+   git clone https://github.com/AkkayaKaan/Steam-Trade-Farm
    cd steam-trade-farm-bot
    ```
 2. Install dependencies using the provided script:
