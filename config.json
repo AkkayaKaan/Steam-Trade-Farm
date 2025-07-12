@@ -1,0 +1,18 @@
+{
+  "accounts": [
+    {
+      "username": "xxx",
+      "password": "xxx",
+      "shared_secret": "xxx",
+      "identity_secret": "xxx",
+      "trade_url": "xxx"
+    },
+    {
+      "username": "xxx",
+      "password": "xxx",
+      "shared_secret": "xxx",
+      "identity_secret": "xxx",
+      "trade_url": "xxx"
+    }
+ ]
+}
